@@ -1,1 +1,1 @@
-### Primer miniproyecto para pobrar git/github
+### Primer miniproyecto para comenzar a experimentar con git y github
